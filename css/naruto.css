@@ -1,0 +1,105 @@
+body {
+	background-color: #FFA500;
+}
+
+header {
+	font-family: Verdana, Arial, serif;
+	font-size: 1.5em;
+	margin-top: 0.2em;
+	margin-bottom: 0.3em;
+	text-align: center;
+	color: #024da1;
+}
+
+main {
+	clear: both;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
+nav {
+	font-family: "Times New Roman", serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+nav ul {
+	padding: 0;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+nav li {
+	background-color: #000000;
+	list-style-type: none;
+	margin: 0.6em;
+	padding: 0.8em;
+	width: 20%;
+	display: inline;
+	margin-left: 2%;
+	margin-right: 2%;
+	padding-left: 2em;
+	padding-right: 2em;
+	border-radius: 1em;
+}
+
+nav li a {
+	color: #024da1;
+	text-decoration: none;
+}
+
+div {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+	text-align: center;
+}
+
+#seasonsmain {
+	font-family: "Times New Roman", serif;
+	font-size: .8em;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+#jutsusmain {
+	display: inline-block;
+	font-family: "Times New Roman", serif;
+	font-size: .7em;
+	font-weight: bold;
+	width: 33%;
+	overflow: auto;
+	clear: left;
+	vertical-align: text-top;
+}
+
+#jutsusmain2 {
+	display: inline-block;
+	font-family: "Times New Roman", serif;
+	font-size: .7em;
+	font-weight: bold;
+	text-align: center;
+	width: 33%;
+	overflow: auto;
+	clear: left;
+	vertical-align: text-top;
+}
+
+#jutsusmain3 {
+	display: inline-block;
+	font-family: "Times New Roman", serif;
+	font-size: .7em;
+	font-weight: bold;
+	width: 33%;
+	overflow: auto;
+	clear: left;
+	vertical-align: text-top;
+}
